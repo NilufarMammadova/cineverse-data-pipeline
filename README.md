@@ -1,6 +1,7 @@
 # 🎬 CineVerse — Data Engineering Pipeline
 
 An end-to-end pipeline for a movies & series platform: three sources → Bronze/Silver/Gold → dashboard.
+📖 Read the full write-up on Medium: https://medium.com/@nilufarmammadova7/building-cineverse-a-modular-data-pipeline-with-airflow-minio-pyspark-postgresql-superset-2c6ab695e28c?postPublishedType=repub
 
 
 ## Stack
